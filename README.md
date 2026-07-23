@@ -1,6 +1,10 @@
+
 # 🧠 Makine Öğrenmesi ile Depresyon Riski Tahmin Sistemi
 
 Bu proje, bireylerin psikolojik durumlarını değerlendiren 9 soruluk (PHQ-9 formatına benzer) bir anket verisi kullanarak **Depresyon Riski** tahmini yapan uçtan uca bir Makine Öğrenmesi (Machine Learning) ve Derin Öğrenme (Deep Learning) sistemidir. Proje, veri ön işleme, sınıf dengesizliği giderme (SMOTE) ve interaktif bir kullanıcı arayüzü (UI) içerir.
+
+<img width="846" height="549" alt="ROC_eğrisi" src="https://github.com/user-attachments/assets/97a4612c-d0d5-4a39-a7a6-5e1cb23697b3" />
+<img width="981" height="374" alt="ANN_grafikleri" src="https://github.com/user-attachments/assets/e24c7cc1-8318-4257-94bf-6ee0135c5306" />
 
 ## 🚀 Proje Özellikleri
 
